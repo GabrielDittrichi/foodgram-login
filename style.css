@@ -69,6 +69,8 @@ body {
     justify-content: center;
     align-items: center;
     border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 15px;
     overflow: hidden;
 }
 
