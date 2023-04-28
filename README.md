@@ -1,4 +1,4 @@
-# 😋 Login Page Project
+# 😋 FoodGram Login Page 
 
 This project is a simple login page developed using HTML and CSS.The goal is make a login page using an Instagram Login template.
 
